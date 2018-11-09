@@ -1,6 +1,27 @@
 
 img{
-    width: 1140px;
-	padding-left: 200px;
-
+    width: 920px;
+}
+.container{
+	align-items: center;
+}
+button{
+	background-color: #20B2AA;
+	font-family:serif;
+	color: #FFFFFF;
+}
+h1.text{
+ text-align: center;
+ color: #696969;
+}
+p.text{
+	text-align: center;
+    font-family: Serif;
+}
+button.botão{
+	background-color:#FFE4E1;
+	color: #000000;
+	border-radius:20px;
+	width: 180px;
+	height: 45px;
 }
