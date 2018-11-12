@@ -1,27 +1,32 @@
 
 img{
-    width: 920px;
+	padding-left: 300px;
+    width: 1100px;
 }
-.container{
-	align-items: center;
-}
-button{
-	background-color: #20B2AA;
-	font-family:serif;
-	color: #FFFFFF;
-}
-h1.text{
+h3.text{
  text-align: center;
  color: #696969;
 }
 p.text{
 	text-align: center;
     font-family: Serif;
+    font-size: 18px;
+}
+.container{
+	align-items: center;
+}
+div.card{
+	width: 70%;
+}
+button{
+	background-color: #20B2AA;
+	font-family:serif;
+	color: #FFFFFF;
 }
 button.botão{
-	background-color:#FFE4E1;
+	background-color:#FFB6C1;
 	color: #000000;
-	border-radius:20px;
+	border-radius:50px;
 	width: 180px;
 	height: 45px;
 }
