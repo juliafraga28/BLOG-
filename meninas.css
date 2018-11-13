@@ -12,34 +12,30 @@ p.text{
 .container{
 	align-items: center;
 }
-button{
-	background-color: #20B2AA;
-	font-family:serif;
-	color: #FFFFFF;
-}
+
 i{
-	margin-left: 800px;
+	margin-left: 700px;
 }
 img.moda{
-	margin-left: 500px;
+	margin-left: 600px;
 }
 img.img{
-	margin-left:500px;
+	margin-left:220px;
     width: 900px;
     margin-top: 35px;
 }
 img.cards{
 	margin-top: 50px;
 	width: 700px;
-	margin-left: 210px;
+	margin-left: 300px;
 }
 img.read{
 	width: 720px;
-	margin-left: 210px;
+	margin-left: 300px;
 }
 img.moda1{
-	margin-left: 450px;
+	margin-left: 550px;
 }
 nav{
-	margin-left: 400px;
+	margin-left: 100px;
 }
